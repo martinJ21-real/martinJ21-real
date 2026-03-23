@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> # 💫 About Me:
-I am currently learning how to code in HTML and I am currently coding my term project website.<br>I'm currently working on earning my Security+ certification.<br>I'm looking for help with starter cybersecurity project ideas and how to get started.
+I am currently learning how to code in HTML and I am currently coding my term project website.<br>I have earned my Security+ certification.<br>I'm looking for help with starter cybersecurity project ideas and how to get started.<br>I have built my own linux VM to practice using opensource software elasticsearch, logstash, and kibana to simulate alerts like a SIEM.
 
 
 ## 🌐 Socials:
